@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+body{
+    background-color: #E4C491;
+}
+
+img{
+    width: 45%;
+    margin-left: 27%;
+    margin-top: -5%;
+}
+
+h1{
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 50px;
+}
+
+p{
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #9E3F3F;
+    font-size: 35px;
+}
+
+#button{
+    margin-top: -110%;
+}
+
+#header{
+    margin-top: -47%;
+    margin-left: 42%;
+}
+
+#text{
+    margin-top: -4%;
+    margin-left: 34%;
+}
