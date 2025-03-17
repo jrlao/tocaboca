@@ -1,9 +1,29 @@
-body{
-    background-color: #9A9090;
+#red{
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 35%;
 }
 
-img{
-    width: 30%;
-    margin-left: 35%;
+#orange{
+    size: 10%;
     text-align: center;
+}
+
+#pink{
+    size: 10%;
+    text-align: center;
+}
+
+#blonde{
+    size: 10%;
+}
+
+#black{
+    size: 10%;
+}
+
+#logo{
+    margin-top: -90%;
+    margin-bottom: 30%;
+    margin-right: 10%;
 }

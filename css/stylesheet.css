@@ -4,6 +4,16 @@ body{
     background-color: #E4C491;
 }
 
+#img{
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+
+#button{
+    margin-top: -25%;
+}
+
 img{
     width: 45%;
     margin-left: 27%;
@@ -15,7 +25,7 @@ h1{
     font-weight: 400;
     font-style: normal;
     color: black;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 p{
@@ -26,16 +36,45 @@ p{
     font-size: 35px;
 }
 
-#button{
-    margin-top: -110%;
+#start{
+    margin-top: -90%;
 }
 
 #header{
-    margin-top: -47%;
-    margin-left: 42%;
+    margin-top: -44%;
+    text-align: center;
 }
 
 #text{
     margin-top: -4%;
-    margin-left: 34%;
+    text-align: center;
+}
+
+#head{
+    margin-top: -4%;
+    text-align: center;
+}
+
+#red{
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 35%;
+}
+
+#orange{
+    size: 10%;
+    text-align: center;
+}
+
+#pink{
+    size: 10%;
+    text-align: center;
+}
+
+#blonde{
+    size: 10%;
+}
+
+#black{
+    size: 10%;
 }
