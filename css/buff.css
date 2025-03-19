@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
 
 
 body{
@@ -39,5 +40,9 @@ img{
     width: 30%;
     margin-left: 35%;
     text-align: center;
+}
+
+#button:hover{
+    transform: scale(1.25);
 }
 

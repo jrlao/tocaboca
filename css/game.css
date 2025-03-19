@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
 #red{
     text-align: center;
     margin-left: 15%;
@@ -26,4 +29,28 @@
     margin-top: -90%;
     margin-bottom: 30%;
     margin-right: 10%;
+}
+
+#orange:hover{
+    transform: scale(1.75);
+}
+
+#pink:hover{
+    transform: scale(1.75);
+}
+
+#black:hover{
+    transform: scale(1.75);
+}
+
+#blonde:hover{
+    transform: scale(1.75);
+}
+
+#red:hover{
+    transform: scale(1.75);
+}
+
+#logo:hover{
+    transform: scale(1.25);
 }

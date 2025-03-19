@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+
 #img{
     margin-left: 34%;
     margin-bottom: -30%;
@@ -11,4 +14,8 @@
 #pink{
     margin-left: 39%;
     margin-bottom: -30%;
+}
+
+#logo:hover{
+    transform: scale(1.25);
 }

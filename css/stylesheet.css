@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
 
 body{
     background-color: #E4C491;
@@ -77,4 +79,12 @@ p{
 
 #black{
     size: 10%;
+}
+
+#button:hover{
+    transform: scale(1.25);
+}
+
+#start:hover{
+    transform: scale(1.25);
 }
